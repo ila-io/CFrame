@@ -4,7 +4,9 @@ July 11th - day 1 (1-2hrs)
 Started sketching our idea, which was to make an Amazon Echo "frame" encasing a small LCD display, and implement better and more useful widgets than those available on the ad-filled e-waste that Amazon ships out for $150. This is what we came up with:
 ![sketch front](imgs/sketchFront.png)
 ![sketch side](imgs/sketchSide.png)
+
 In addition to a sketch, we also wrote down a shortlist of hardware that we might need:
+
 ![quick BOM writeup](imgs/sketchBOM.png)
 
 July 12th - day 2 
