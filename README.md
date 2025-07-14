@@ -6,3 +6,5 @@ This screen aims to be a simplified version of an Amazon Echo with low power con
 
 ![full 3D model](imgs/full3Dmodel.png)
 ![wiring diagram](imgs/wiringDiagram.png)
+
+https://youtu.be/JuAdMbwRjQs
