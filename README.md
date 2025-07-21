@@ -5,6 +5,7 @@ We created this project because the Amazon Echo absolutely sucks. It is filled w
 This screen aims to be a simplified version of an Amazon Echo with low power consumption while retaining decent functionality. It has the ability to display ambient temperature (though it becomes very inaccurate after a minute of being powered on), time, and start timers.
 
 ![finished product](imgs/finishedProduct.png)
+![disassembled product](imgs/disassembledProduct.png)
 ![full 3D model](imgs/full3Dmodel.png)
 ![wiring diagram](imgs/wiringDiagram.png)
   
